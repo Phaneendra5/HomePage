@@ -1,0 +1,55 @@
+{
+  "Header": {
+    "title": "BLITZCHARGE",
+    "paragraph": "Connecting power to you!"
+  },
+  "About": {
+    "paragraph": "App solution to close the infrastructural and technological gaps in terms of management, structure and setting up of e mobility charging infrastructure. The App will integrate all available charging stations/providers with all available functions.At the same time new charging stations shall be installed in the gaps with public collaborations and partnerships.",
+    "Why": [
+      "Mobile application that eases existing EV chargers navigation",
+      "Collaborating with public spaces to install EV chargers",
+      "Selling EV charger accessories"
+    ],
+    "Why2": [
+      "Collaborate and assist electric grids to maintain and build infrastructure ",
+      "Provide useful shopping,leisure insights to app users during the time required/spent  to charge the EV"
+    ]
+  },
+  "Services": [
+    {
+      "icon": "fa fa-download",
+      "name": "Easy to use",
+      "text": "Providing businesses to existing charging stations with our app."
+    },
+    {
+      "icon": "fa fa-cogs",
+      "name": "New Stations",
+      "text": "Installing new charging stations."
+    },
+    {
+      "icon": "fa fa-arrows",
+      "name": "Wide range of Categories",
+      "text": "providing accessories to for EV user for charging."
+    }
+  ],
+  "Team": [
+    {
+      "img": "img/team/01.jpg",
+      "name": "Amar Kumar Myadam",
+      "job": "Co-Founder"
+    },
+    {
+      "img": "img/team/02.jpg",
+      "name": "Phaneendra Saya Boina",
+      "job": "Co-Founder"
+    }
+  ],
+  "Contact": {
+    "address": "Rudower Ch 17, 12489 Berlin, Germany",
+    "phone": "+4915163797618",
+    "email": "contact@blitzcharge.de",
+    "facebook": "fb.com",
+    "twitter": "twitter.com",
+    "youtube": "youtube.com"
+  }
+}
